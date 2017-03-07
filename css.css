@@ -1,0 +1,53 @@
+#navigater
+{
+	background:url(https://github.com/Mono-Blue/Jay/blob/master/2.png?raw=true) no-repeat;
+	background-color:#333;
+	width:100%;
+	height:52px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+#navigater li
+{
+	
+	float:right;
+	margin:19px 30px 12px 12px;
+	font-weight:bold;
+	font-size:normal;
+	position:relative;
+	bottom: 23px;
+}
+
+a.lianjie:hover
+{
+	/* <!--鼠标挪上去以后下划线发生变化--> */
+	text-decoration:none;   
+	color:red;
+}
+
+body
+{
+	background-color:#DEDEDE
+}
+
+.article1,.article2,.picture,.article3
+{
+	padding:25px;
+	border:3px solid #9f9f9f;
+	border-top:1px slid #cbcbcb;
+	border-left:1px solid #cbcbcb;
+	background-color:#FFF;
+	margin:20px;
+}
+
+.celan
+{
+	margin: 45px 45px 20px 20px;
+    border:3px solid #9f9f9f;
+    border-top: 1px solid #cbcbcb;
+    border-left: 1px solid #cbcbcb;
+    padding: 20px;
+    background-color: #FFF;
+}
